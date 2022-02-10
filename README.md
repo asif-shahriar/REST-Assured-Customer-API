@@ -17,7 +17,7 @@ allure generate allure-results --clean -o allure-report
 ```
 allure serve allure-results
 ```
-
+## Screenshots
 These are the snapshots of the allure reports:
 
 ![Screenshot_1](https://user-images.githubusercontent.com/71173675/151918228-cdcddcdd-2e71-417e-8474-263141f66ca7.png)
